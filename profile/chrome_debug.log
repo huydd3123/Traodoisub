@@ -1,0 +1,10 @@
+[5908:6464:0105/080809.223:INFO:CONSOLE(6770)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (6770)
+[5908:4616:0105/080814.962:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[5908:6464:0105/080814.963:ERROR:device_event_log_impl.cc(214)] [08:08:14.963] Bluetooth: bluetooth_adapter_winrt.cc:715 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+[5908:4616:0105/080814.964:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[5908:4616:0105/080814.968:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[5908:6464:0105/080814.970:ERROR:device_event_log_impl.cc(214)] [08:08:14.970] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5908:6464:0105/080814.971:ERROR:device_event_log_impl.cc(214)] [08:08:14.971] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5908:6464:0105/080814.972:ERROR:device_event_log_impl.cc(214)] [08:08:14.972] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[5908:4616:0105/080814.975:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[5908:6464:0105/080858.257:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
